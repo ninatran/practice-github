@@ -26,5 +26,6 @@ function sqrt(x){
     Determines if a number is even
 */
 function isEven(num){
+    if (num % 2 !== 0) return false;
     if (num % 2 === 0) return true;
 }
