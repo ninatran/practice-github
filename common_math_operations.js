@@ -14,7 +14,7 @@ function add(x, y){
     Multiplies number by 10
 */
 function multiplyBy10(x){
-    return -1;
+    return x * 10;
 }
 
 /*
